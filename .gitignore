@@ -1,0 +1,10 @@
+# Generated files
+*.skill
+
+# Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
